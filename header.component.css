@@ -1,0 +1,8 @@
+a {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+a:visited {
+  color: darkgrey;
+}
